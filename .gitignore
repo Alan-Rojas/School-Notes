@@ -1,0 +1,8 @@
+# Virtual environments
+venv/
+M1/venv/
+M2/venv/
+M3/venv/
+*.venv
+__pycache__/
+.ipynb_checkpoints/
