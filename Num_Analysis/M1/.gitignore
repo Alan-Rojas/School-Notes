@@ -1,2 +1,4 @@
-M1venv/ *.pdf *.html
+M1venv
+*.pdf 
+*.html
 __pycache__
