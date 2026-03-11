@@ -1,4 +1,4 @@
-M1venv
+M1venv/
 *.pdf 
 *.html
-__pycache__
+__pycache__/
