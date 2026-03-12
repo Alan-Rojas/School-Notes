@@ -1,4 +1,6 @@
 M2venv/
 __pycache__/
+notes/
+data/
 *.pdf
 *.html
